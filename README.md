@@ -6,3 +6,5 @@ A simple calculator implemented using Test-Driven Development (TDD) in Python. T
 ## How to Run Tests
 Make sure you're in the project directory, then run:
 
+```bash
+python -m unittest test_calculator.py
